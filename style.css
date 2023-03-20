@@ -1,0 +1,92 @@
+.divTable
+{
+    display: flex;
+    flex-flow: row wrap;
+    
+}
+.back
+{
+    text-align: center;
+    font-size: 20px;
+}
+.divTable > div
+{		
+    margin: 0.5%
+}
+.cell1
+{
+    width: 99%;
+    background-image: url(https://static.bimago.pl/mediacache/catalog/product/cache/6/9/145296/image/750x1120/0dd1967e6cdbfdde7bedf5e95b4fb185/145296_4.jpg);
+    text-align: justify;
+}
+.cell2_1
+{
+    width: 49%;
+   
+    background-image: url(https://static.bimago.pl/mediacache/catalog/product/cache/6/9/145296/image/750x1120/0dd1967e6cdbfdde7bedf5e95b4fb185/145296_4.jpg);
+    text-align: justify;
+}
+.cell2_2
+{
+    width: 49%;
+   
+    background-image: url(https://static.bimago.pl/mediacache/catalog/product/cache/6/9/145296/image/750x1120/0dd1967e6cdbfdde7bedf5e95b4fb185/145296_4.jpg);
+    text-align: justify;
+}
+.cell3_1
+{
+    width: 24%;
+   
+    text-align: justify;
+    background-image: url(https://static.bimago.pl/mediacache/catalog/product/cache/6/9/145296/image/750x1120/0dd1967e6cdbfdde7bedf5e95b4fb185/145296_4.jpg);
+}
+.cell3_2
+{
+    width: 24%;
+   
+    text-align: justify;
+    background-image: url(https://static.bimago.pl/mediacache/catalog/product/cache/6/9/145296/image/750x1120/0dd1967e6cdbfdde7bedf5e95b4fb185/145296_4.jpg);
+}
+.cell3_3
+{
+    width: 49%;
+   
+    text-align: justify;
+    background-image: url(https://static.bimago.pl/mediacache/catalog/product/cache/6/9/145296/image/750x1120/0dd1967e6cdbfdde7bedf5e95b4fb185/145296_4.jpg);
+}
+.cell4_1
+{
+    width: 19%;
+   
+    text-align: justify;
+    background-image: url(https://static.bimago.pl/mediacache/catalog/product/cache/6/9/145296/image/750x1120/0dd1967e6cdbfdde7bedf5e95b4fb185/145296_4.jpg);
+}
+.cell4_2
+{
+    width: 19%;
+   
+    text-align: justify;
+    background-image: url(https://static.bimago.pl/mediacache/catalog/product/cache/6/9/145296/image/750x1120/0dd1967e6cdbfdde7bedf5e95b4fb185/145296_4.jpg);
+}
+.cell4_3
+{
+    width: 19%;
+   
+    text-align: justify;
+    background-image: url(https://static.bimago.pl/mediacache/catalog/product/cache/6/9/145296/image/750x1120/0dd1967e6cdbfdde7bedf5e95b4fb185/145296_4.jpg);
+}
+.cell4_4
+{
+    width: 19%;
+   
+    text-align: justify;
+    background-image: url(https://static.bimago.pl/mediacache/catalog/product/cache/6/9/145296/image/750x1120/0dd1967e6cdbfdde7bedf5e95b4fb185/145296_4.jpg);
+}
+.cell4_5
+{
+    width: 19%;
+   
+    text-align: justify;
+    background-image: url(https://static.bimago.pl/mediacache/catalog/product/cache/6/9/145296/image/750x1120/0dd1967e6cdbfdde7bedf5e95b4fb185/145296_4.jpg);
+}
+
